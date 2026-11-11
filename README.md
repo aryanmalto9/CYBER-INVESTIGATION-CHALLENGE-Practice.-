@@ -1,5 +1,4 @@
 # CYBERCRIME INVESTIGATION BRIEFING DOCUMENT
-Issuing Authority: Cyber Police Station – Pimpri Chinchwad, Pune, Maharashtra, India Document Type: Case Briefing / Exercise Dossier Date of Issue: 04 March 2026
 
 ## Case Title
 Operation Phantom Portfolio
