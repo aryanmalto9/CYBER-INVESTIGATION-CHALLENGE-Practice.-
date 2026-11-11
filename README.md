@@ -1,25 +1,26 @@
-##CYBERCRIME INVESTIGATION BRIEFING DOCUMENT
+## CYBERCRIME INVESTIGATION BRIEFING DOCUMENT
 
 Issuing Authority: Cyber Police Station – Pimpri Chinchwad, Pune, Maharashtra, India Document Type: Case Briefing / Exercise Dossier Date of Issue: 04 March 2026
-##Case Title
+
+## Case Title
 
 Operation Phantom Portfolio
 
-##Case Overview
+## Case Overview
 This dossier outlines a sophisticated, systematic investment fraud operation resulting in a cumulative financial loss of ₹61,64,941. The fraudulent activities occurred between 01 September 2025 and 11 October 2025. The perpetrators utilized social engineering techniques via encrypted messaging platforms and a fabricated financial trading portal to deceive the victim into transferring substantial funds under the guise of highly profitable share market investments.
 
-##Incident Background
+## Incident Background
 
 The investigation was initiated following a formal complaint registered by the victim through the National Cyber Crime Reporting Portal (NCCRP). Preliminary analysis indicates a highly organized syndicate operating utilizing layered communication channels, spoofed digital infrastructure, and a network of suspected mule accounts to obfuscate the flow of illicitly acquired funds.
 
-##Victim Profile
+## Victim Profile
 
 •	Name: Archana Amitkumar Pawar
 •	Age: 43
 •	Occupation: Homemaker
 •	Residence: Chinchwad Gaon, Pune, Maharashtra, India
 
-##Initial Contact and Fraud Method
+## Initial Contact and Fraud Method
 
 The victim was added to an unsolicited WhatsApp group without prior consent. The group was presented as an exclusive forum for professional stock trading guidance and wealth management. The primary modus operandi involved:
 1.	Social Proofing: Group administrators and suspected accomplices systematically posted fabricated screenshots depicting massive returns on investments to manufacture credibility.
